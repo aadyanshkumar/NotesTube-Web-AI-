@@ -1,0 +1,8 @@
+streamlit
+youtube-transcript-api
+google-generativeai
+yt-dlp
+Pillow
+langdetect
+requests
+fpdf
